@@ -1,6 +1,4 @@
-## Hi there ![duck](https://github.com/P4TO91/P4TO91/assets/93457382/e36b0abd-6cdf-4692-9be4-833bfa1ebf34)
-
-
+## Hi there ![duck](https://github.com/P4TO91/P4TO91/assets/93457382/606300a6-afec-4cbe-b720-3656582f2095)
 
 Me considero un apasionado de la inteligencia artificial y ciencia de datos; por esta razon me he sumergido en el mundo del software, en donde he podido adquirir experiencia trabajando con lenguajes como Python, JAVA, R entre otros. Que me han permitido expandir el alcance e influencia de mis ideas en varios sectores y modelos de negocios como emprendedor e inversionista, en el que me quiero convertir en el corto y mediano plazo.
 
