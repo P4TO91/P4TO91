@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there https://www.google.com/imgres?q=emoji%20de%20pato%20readme%20en%20github&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F829%2F450%2Fpng-clipart-emojipedia-text-messaging-github-english-duck-english-vertebrate.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-ymzqj&docid=G1mdoEM5R-mDKM&tbnid=vwHFBNZ2Eqq_2M&vet=12ahUKEwjC-9jCvpaHAxW5RDABHXV6CHIQM3oECBoQAA..i&w=900&h=512&hcb=2&ved=2ahUKEwjC-9jCvpaHAxW5RDABHXV6CHIQM3oECBoQAA
 
 Me considero un apasionado de la inteligencia artificial y ciencia de datos; por esta razon me he sumergido en el mundo del software, en donde he podido adquirir experiencia trabajando con lenguajes como Python, JAVA, R entre otros. Que me han permitido expandir el alcance e influencia de mis ideas en varios sectores y modelos de negocios como emprendedor e inversionista, en el que me quiero convertir en el corto y mediano plazo.
 
