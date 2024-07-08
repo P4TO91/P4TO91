@@ -16,6 +16,7 @@ HARD SKILLS:
 ![JS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)</br>
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)</br>
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)</br>
 
 SOFT SKILLS:
 
