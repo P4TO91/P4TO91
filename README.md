@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**P4TO91/P4TO91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me considero un apasionado de la inteligencia artificial y ciencia de datos; por esta razon me he sumergido en el mundo del software, en donde he podido adquirir experiencia trabajando con lenguajes como Python, JAVA, R entre otros. Que me han permitido expandir el alcance e influencia de mis ideas en varios sectores y modelos de negocios como emprendedor e inversionista, en el que me quiero convertir en el corto y mediano plazo.
 
-Here are some ideas to get you started:
+Me pueden contactar a traves de mi correo electronico:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- diego.rueda91@gmail.com
+
+Actualmente me encuentro :
+
+- Finalizando el tecnologo en Analisis y desarrollo de softwate (ADSO) en el SENA.
+- cursando corte de nivel avanzado en desarrollo Movil en la Universidad Nacional de COLOMNBIA.
+- Ejecutando un proyecto en rifas en el valle del Cauca.
+- Realizando un red neuronal para el sector inmobiliario.
+
+Hobbies:
+- Viajar y conocer a otros paises y culturas.
+- Bucear, dado que actualmente cuento con certificacion PADI.
