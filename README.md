@@ -1,4 +1,4 @@
-## Hi there ![Uploading Captura de Pantalla 2024-07-08 a la(s) 9.11.54 a.m..png…]()
+## Hi there ![Uploading Captura de Pantalla 2024-07-08 a la(s) 9.11.54 a.m..png…]
 
 
 
