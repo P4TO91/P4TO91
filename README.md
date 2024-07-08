@@ -1,4 +1,4 @@
-## Hi there ! /Users/diegorueda/Downloads/rubber-duck.png
+## Hi there ![rubber-duck](https://github.com/P4TO91/P4TO91/assets/93457382/27fa8e34-8f2d-4d76-90b4-dd665932a17e)
 
 
 Me considero un apasionado de la inteligencia artificial y ciencia de datos; por esta razon me he sumergido en el mundo del software, en donde he podido adquirir experiencia trabajando con lenguajes como Python, JAVA, R entre otros. Que me han permitido expandir el alcance e influencia de mis ideas en varios sectores y modelos de negocios como emprendedor e inversionista, en el que me quiero convertir en el corto y mediano plazo.
