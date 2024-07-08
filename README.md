@@ -11,12 +11,13 @@ Me pueden contactar a traves de mi correo electronico:
 
 - diego.rueda91@gmail.com
 
-Habilidades:
+HARD SKILLS:
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![JS](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)</br>
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 
+SOFT SKILLS:
 
 Actualmente me encuentro :
 
