@@ -13,8 +13,8 @@ Me pueden contactar a traves de mi correo electronico:
 
 Habilidades:
 
-![Android](https://img.shields.io//badge/Android-3DDC8?style#for-the-badge&logoColor=white&labelColor=101010)</br>
-
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 
 Actualmente me encuentro :
 
