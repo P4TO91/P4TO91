@@ -15,8 +15,8 @@ HARD SKILLS:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![JS](https://img.shields.io/badge/TypeScript-3DDC84?style=flat&logo=typescript&logoColor=white)</br>
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)</br>
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)</br>
+![Python](https://img.shields.io/badge/Python-3DDC84?style=flat&logo=python&logoColor=white)</br>
+![R](https://img.shields.io/badge/R-3DDC84?style=flat&logo=r&logoColor=white)</br>
 ![Boostrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)</br>
 
 
