@@ -22,6 +22,12 @@ HARD SKILLS:
 
 SOFT SKILLS:
 
+- Resilience.
+- Adaptabilidad al entorno y ambiente.
+- Orientado a los objetivos organizacionales,
+- Liderazgo.
+  
+
 Actualmente me encuentro :
 
 - Finalizando el tecnologo en Analisis y desarrollo de softwate (ADSO) en el SENA.
