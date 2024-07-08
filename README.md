@@ -11,6 +11,11 @@ Me pueden contactar a traves de mi correo electronico:
 
 - diego.rueda91@gmail.com
 
+Habilidades:
+
+![Android](https://img.shields.io//badge/Android-3DDC84)style#for-the-badge&logoColor=white&labelColor=101010)</br>
+
+
 Actualmente me encuentro :
 
 - Finalizando el tecnologo en Analisis y desarrollo de softwate (ADSO) en el SENA.
