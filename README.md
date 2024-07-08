@@ -31,8 +31,8 @@ SOFT SKILLS:
 Actualmente me encuentro :
 
 - Finalizando el tecnologo en Analisis y desarrollo de softwate (ADSO) en el SENA.
-- cursando corte de nivel avanzado en desarrollo Movil en la Universidad Nacional de COLOMNBIA.
-- Ejecutando un proyecto en rifas en el valle del Cauca.
+- cursando corte de nivel avanzado en desarrollo Movil en la Universidad Nacional de Colombia.
+- Ejecutando un proyecto en rifas digital en el valle del Cauca.
 - Realizando un red neuronal para el sector inmobiliario.
 
 Hobbies:
